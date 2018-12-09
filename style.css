@@ -24,6 +24,15 @@ p {
   line-height: 40px;
 }
 
+.centered {
+  text-align: center;
+}
+
+.main h1 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
 #top {
   height: 200px;
   background-color: #eee;

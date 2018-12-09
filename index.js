@@ -18,7 +18,7 @@ window.onscroll = function() {
       navbar_topics_links[i].style.color = "#fff";
     }
   } else {
-    navbar.style.backgroundColor = "#ccc";
+    navbar.style.backgroundColor = "#ddd";
     for (var i = 0; i < navbar_topics_links.length; i++){
       navbar_topics_links[i].style.color = "#000";
     }
