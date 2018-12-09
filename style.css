@@ -41,7 +41,7 @@ p {
 
 #navbar {
   overflow: hidden;
-  background-color: #ccc;
+  background-color: #ddd;
   transition: background-color 0.5s ease;
   z-index: 1;
 }
